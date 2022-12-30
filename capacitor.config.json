@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "masbro",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

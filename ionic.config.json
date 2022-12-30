@@ -1,0 +1,8 @@
+{
+  "name": "masbro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0b3c8fb5"
+}
